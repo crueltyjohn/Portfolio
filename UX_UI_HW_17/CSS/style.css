@@ -91,7 +91,7 @@ nav li {
 /*hero section below*/
 .heroImg {
     position: relative;
-    background-image: url("/images/HEROIMAGEFILL.png");
+    background-image: url("images/HEROIMAGEFILL.png");
     background-size: cover;
     background-position: center;
     width: 100%;
