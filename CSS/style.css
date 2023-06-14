@@ -274,7 +274,7 @@ h3 {
 }
 
 p {
-    font-family: 'Space Grotesk';
+    font-family: 'Space-Grotesk';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -282,3 +282,15 @@ p {
     color: #FFFFFF;
 }
 /*font families above*/
+
+/*custom font info*/
+
+@font-face {
+    font-family: Michroma;
+    src: url(Michroma-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: 'Space-Grotesk';
+    src: url(SpaceGrotesk-VariableFont_wght.ttf) format(truetype);
+}
